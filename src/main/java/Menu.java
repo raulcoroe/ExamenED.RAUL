@@ -3,6 +3,7 @@ public class Menu {
     private String descripcion;
     private int precio;
     private boolean foto;
+    private String pruebaPunto4Examen;
 
     public String getNombre() {
         return nombre;
